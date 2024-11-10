@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/juniniv3/LeetCode/tree/master/0001-two-sum) |
+| [0118-pascals-triangle](https://github.com/juniniv3/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/juniniv3/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/juniniv3/LeetCode/tree/master/0169-majority-element) |
 ## Hash Table
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/juniniv3/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/juniniv3/LeetCode/tree/master/0182-duplicate-emails) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/juniniv3/LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
