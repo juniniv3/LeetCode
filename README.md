@@ -11,15 +11,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/juniniv3/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/juniniv3/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/juniniv3/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/juniniv3/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/juniniv3/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/juniniv3/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/juniniv3/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/juniniv3/LeetCode/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/juniniv3/LeetCode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -33,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/juniniv3/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/juniniv3/LeetCode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -42,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/juniniv3/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/juniniv3/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/juniniv3/LeetCode/tree/master/0268-missing-number) |
 ## Database
 |  |
 | ------- |
@@ -52,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/juniniv3/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/juniniv3/LeetCode/tree/master/0119-pascals-triangle-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/juniniv3/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
