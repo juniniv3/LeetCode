@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/juniniv3/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/juniniv3/LeetCode/tree/master/0182-duplicate-emails) |
+| [1541-top-travellers](https://github.com/juniniv3/LeetCode/tree/master/1541-top-travellers) |
 ## Dynamic Programming
 |  |
 | ------- |
